@@ -1,0 +1,3 @@
+[submodule "themes/dark-terminal"]
+	path = themes/dark-terminal
+	url = git@github.com:masudafsar/hexo-theme-dark-terminal.git
